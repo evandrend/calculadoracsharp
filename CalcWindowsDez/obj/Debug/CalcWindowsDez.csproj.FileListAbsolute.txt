@@ -1,0 +1,9 @@
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\bin\Debug\CalcWindowsDez.exe.config
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\bin\Debug\CalcWindowsDez.exe
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\bin\Debug\CalcWindowsDez.pdb
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\obj\Debug\CalcWindowsDez.csprojResolveAssemblyReference.cache
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\obj\Debug\CalcWindowsDez.Form1.resources
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\obj\Debug\CalcWindowsDez.Properties.Resources.resources
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\obj\Debug\CalcWindowsDez.csproj.GenerateResource.Cache
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\obj\Debug\CalcWindowsDez.exe
+C:\Users\EvandreND\Desktop\CalcWindowsDez\CalcWindowsDez\obj\Debug\CalcWindowsDez.pdb
